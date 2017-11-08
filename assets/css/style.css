@@ -305,9 +305,17 @@ input[type=submit] {
 		margin-right:100px;
 	}
 
+	.mypic{
+		width:100%;
+		height:auto;
+	}
+
 	.main-section{
 		margin:40px;
 		width:550px;
+		font-size:75%;
+		line-height:25px;
+
 	}
 
 	.sidebar{
